@@ -1,0 +1,1 @@
+drafts://create?text={# }[title]%0A{*}[author]{*}%0A{`}[url]{`}%0A%0A{---}%0A%0A[content-markdown]%0A%0A{---}%0A%0A{```}html%0A[content-html]%0A{```}

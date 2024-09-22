@@ -1,0 +1,1 @@
+things:///add?title=[title]&notes={- }{[}[title]{]}{(}[url]{)}{ }{ | }{*}[summary]{*}&tags=[tags]&list-id=9CNZTeHPfd445JtNCjpyf&heading=GoodLinks
